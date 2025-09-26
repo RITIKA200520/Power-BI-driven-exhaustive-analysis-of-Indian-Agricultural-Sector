@@ -48,14 +48,16 @@ critical for wheat.
  Growth Opportunities: Addressing regional disparities and promoting crop
 diversification can enhance productivity and reduce risks.
 
+## Dashboard 
+<img width="800" height="500" alt="01_home_overview" src="https://github.com/user-attachments/assets/8330ed73-3a02-4ac5-bd8b-dbde8fa0af12" />
+
 ## Conclusion
 This project has successfully identified key trends and disparities in Indian agriculture,
 providing policymakers with actionable insights. Future improvements could include
 integrating real-time market data, adding environmental factors like rainfall, and refining
 MSP predictions using machine learning.
 
-## Dashboard 
-<img width="637" height="359" alt="01_home_overview" src="https://github.com/user-attachments/assets/8330ed73-3a02-4ac5-bd8b-dbde8fa0af12" />
+
 
 
 
