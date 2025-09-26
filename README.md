@@ -7,9 +7,9 @@ data from 33 states, 646 districts, and 122 unique crops. The primary objective 
 trends, analyze disparities, and offer actionable insights to support policymakers and
 stakeholders in their decision-making process.
 The interactive dashboard created for this project focuses on:
- Visualizing crop production trends over time.
- Identifying regional disparities in agricultural productivity.
- Analyzing factors influencing Minimum Support Prices (MSPs).
+ Visualizing crop production trends over time.
+ Identifying regional disparities in agricultural productivity.
+ Analyzing factors influencing Minimum Support Prices (MSPs).
 
 ## Problem Statement
 The Indian agriculture sector, despite its vast potential, faces several challenges:
@@ -24,28 +24,28 @@ effectively.
 
 ## Proposed Solution
 Using Power BI, I developed a user-friendly and interactive dashboard with features like:
- Visualization of production trends by state, district, crop, and season.
- Predictive analytics to estimate MSPs using machine learning models.
- Key metrics such as yield per hectare, cost efficiency, and regional disparities.
+Visualization of production trends by state, district, crop, and season.
+Predictive analytics to estimate MSPs using machine learning models.
+ Key metrics such as yield per hectare, cost efficiency, and regional disparities.
 This dashboard empowers stakeholders to make data-driven decisions and prioritize
 interventions.
 
 ## Technology Stack
 The project utilized tools including:
- Power BI: For creating interactive dashboards with drill-through functionality.
- DAX (Data Analysis Expressions): To calculate metrics like yield and cost trends.
- Microsoft Excel: For initial data cleaning and preprocessing.
- Statistical Tools: For regression analysis and trend identification.
+1. Power BI: For creating interactive dashboards with drill-through functionality.
+2. DAX (Data Analysis Expressions): To calculate metrics like yield and cost trends.
+3. Microsoft Excel: For initial data cleaning and preprocessing.
+4. Statistical Tools: For regression analysis and trend identification.
 
 ## Key Insights
 From analyzing 19 years of data, the following insights emerged:
- Top-Producing Crops: Coconut led production with 42 billion tons, followed by
+1. Top-Producing Crops: Coconut led production with 42 billion tons, followed by
 rice, wheat, and maize.
- Leading Regions: Kerala was the most productive state, with Kozhikode district at
+2. Leading Regions: Kerala was the most productive state, with Kozhikode district at
 the forefront.
- Seasonal Trends: Kharif season contributed the most to production, while winter was
+3. Seasonal Trends: Kharif season contributed the most to production, while winter was
 critical for wheat.
- Growth Opportunities: Addressing regional disparities and promoting crop
+4. Growth Opportunities: Addressing regional disparities and promoting crop
 diversification can enhance productivity and reduce risks.
 
 ## Dashboard 
