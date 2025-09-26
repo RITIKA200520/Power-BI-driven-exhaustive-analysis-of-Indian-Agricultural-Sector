@@ -54,4 +54,6 @@ providing policymakers with actionable insights. Future improvements could inclu
 integrating real-time market data, adding environmental factors like rainfall, and refining
 MSP predictions using machine learning.
 
+## Dashboard Interaction
+<a href="https://github.com/RITIKA200520/Power-BI-driven-exhaustive-analysis-of-Indian-Agricultural-Sector/blob/main/01_home_overview.png">View Dashboard</a>
 
