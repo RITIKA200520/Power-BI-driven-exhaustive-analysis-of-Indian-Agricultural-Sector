@@ -49,7 +49,7 @@ critical for wheat.
 diversification can enhance productivity and reduce risks.
 
 ## Dashboard 
-<img width="800" height="500" alt="01_home_overview" src="https://github.com/user-attachments/assets/8330ed73-3a02-4ac5-bd8b-dbde8fa0af12" />
+<img width="1000" height="700" alt="01_home_overview" src="https://github.com/user-attachments/assets/8330ed73-3a02-4ac5-bd8b-dbde8fa0af12" />
 
 ## Conclusion
 This project has successfully identified key trends and disparities in Indian agriculture,
